@@ -1,0 +1,18 @@
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\bin\Debug\netstandard2.0\Get Root Of.deps.json
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\bin\Debug\netstandard2.0\Get Root Of.dll
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\bin\Debug\netstandard2.0\ref\Get Root Of.dll
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\bin\Debug\netstandard2.0\Get Root Of.pdb
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\Get Root Of.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\Get Root Of.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\Get Root Of.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\Get Root Of.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\Get Root Of.dll
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\ref\Get Root Of.dll
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\Get Root Of.pdb
+C:\Users\Gustavo\Desktop\Programs\.Projects\Get Root Of\Get Root Of\Get Root Of\obj\Debug\netstandard2.0\Get Root Of.csprojAssemblyReference.cache
